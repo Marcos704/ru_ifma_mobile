@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Withe Theme-->
+    <color name="purple_200_withe">#c9fcc1</color>
+    <color name="purple_500_withe">#00a44b</color>
+    <color name="purple_700_withe">#292929</color>
+    <color name="teal_200_withe">#52a96f</color>
+    <color name="teal_700_withe">#004c1b</color>
+
+    <!--Dark Theme-->
+    <color name="purple_200_dark">#4A8E60</color>
+    <color name="purple_500_dark">#0b301a</color>
+    <color name="purple_700_dark">#000a00</color>
+    <color name="teal_200_dark">#0D5E08</color>
+    <color name="teal_700_dark">#252e35</color>
+
+    <!-- Cores do app -->
+    <color name="corCardWithe">#FFFFFF</color>
+    <color name="corCardDark">#FF000000</color>
+    <color name="corCardSombra">#CD494848</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Style.TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+
+    </style>
+
+    <style name="Style.TextInputLayoutSenha" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+
+    </style>
+
+    <style name="Style.Button" parent="Widget.MaterialComponents.Button.TextButton">
+
+    </style>
+
+    <style name="Style.AutoCompleteText" parent="Widget.MaterialComponents.TextInputLayout.FilledBox.Dense.ExposedDropdownMenu">
+
+    </style>
+</resources>

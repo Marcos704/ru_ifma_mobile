@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">ru ifma - mobile</string>
+    <string name="from">From</string>
+    <string name="engcria_org">EngCria.org</string>
+    <string name="login">Login</string>
+    <string name="email_de_acesso">email de acesso</string>
+    <string name="senha_de_acesso">senha de acesso</string>
+    <string name="acessar">Acessar</string>
+    <string name="nao_possui_cadastro_cadastre_se">Não possui cadastro? Cadastre-se</string>
+    <string name="esqueci_a_minha_senha">Esqueci a minha senha</string>
+    <string name="ru_ifma_nmobile">RU - IFMA\nMobile</string>
+    <string name="ru_ifma_ncadastro">RU - IFMA\nCadastro</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="nome">Nome</string>
+    <string name="sobre_nome">Sobre nome</string>
+    <string name="email_para_acesso">email para acesso</string>
+    <string name="senha_para_acesso">Senha para acesso</string>
+    <string name="descricao">Descrição</string>
+    <string name="anivers_rio">Aniversário</string>
+
+    <string-array name="role">
+        <item>Aluno</item>
+    </string-array>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="nenhum_dado_foi_encontrado">Nenhum dado foi encontrado</string>
+    <string name="FoneNull">(--)--- ---</string>
+    <string name="erroNver">--/--/----</string>
+    <string name="dashboard_do_usu_rio">Dashboard do Usuário</string>
+    <string name="meu_perfil_ru">Meu perfil RU</string>
+
+</resources>
